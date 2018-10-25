@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Motorola repos -->
+  <project path="device/motorola/falcon"			name="MotoDevelopment/android_device_motorola_falcon" 			remote="github" revision="lineage-16.0" />
+  <project path="device/motorola/msm8226-common"		name="MotoDevelopment/android_device_motorola_msm8226-common" 		remote="github" revision="lineage-16.0" />
+  <project path="kernel/motorola/msm8226"			name="MotoDevelopment/android_kernel_motorola_msm8226" 			remote="github" revision="lineage-15.1" />
+  <project path="vendor/motorola"				name="MotoDevelopment/proprietary_vendor_motorola" 			remote="github" revision="lineage-15.1" />
+  <!-- Misc -->
+  <project path="hardware/qcom/audio-caf/msm8974"		name="MotoDevelopment/android_hardware_qcom_audio" 			remote="github" revision="lineage-16.0-caf-8974" />
+  <project path="hardware/qcom/display-caf/msm8974"		name="MotoDevelopment/android_hardware_qcom_display" 			remote="github" revision="lineage-16.0-caf-8974" />
+  <project path="hardware/qcom/media-caf/msm8974"		name="MotoDevelopment/android_hardware_qcom_media" 			remote="github" revision="lineage-16.0-caf-8974" />
+</manifest>
+

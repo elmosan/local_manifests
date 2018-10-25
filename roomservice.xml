@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="MotoDevelopment/android_hardware_qcom_display" path="hardware/qcom/display-caf-msm8974" remote="github" revision="lineage-16.0-caf-8974" />
+  <project name="MotoDevelopment/android_hardware_qcom_media" path="hardware/qcom/media-caf-msm8974" remote="github" revision="lineage-16.0-caf-8974" />
+  <project name="MotoDevelopment/android_hardware_qcom_audio" path="hardware/qcom/audio-caf-msm8974" remote="github" revision="lineage-16.0-caf-8974" />
+  <project name="android_external_connectivity" path="external/connectivity" remote="omnirom" revision="android-6.0" />
+  <project name="vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="omnirom" revision="android-9.0" />
+  <project name="android_vendor_qcom_opensource_interfaces" path="vendor/qcom/opensource/interfaces" remote="omnirom" revision="android-9.0" />
+  <project name="android_device_qcom_caf-sepolicy" path="device/qcom/sepolicy" remote="omnirom" revision="android-9.0" />
+  <project name="android_system_qcom" path="system/qcom" remote="omnirom" revision="android-8.1" />
+  <project name="android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="omnirom" revision="android-8.1" />
+  <project name="android_external_ant-wireless_ant_service" path="external/ant-wireless/ant/service" remote="omnirom" revision="android-8.1" />
+  <project name="android_external_ant-wireless_ant_native" path="external/ant-wireless/ant/native" remote="omnirom" revision="android-8.1" />
+</manifest>
